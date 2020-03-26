@@ -87,7 +87,7 @@ Even if you are unable to complete all of these steps, we can still use your pri
 
 ## Next Steps
 
-Once you've printed at least *5* face shields tops and bottoms you can deliver your prints to a drop-off site. If you're unable to deliver the prints one of our volunteers can come to you and pick them up.
+Once you've printed *at least 5* face shields tops and bottoms you can deliver your prints to a drop-off site. If you're unable to deliver the prints one of our volunteers can come to you and pick them up.
 
 Visit our [Drop-off Sites] page to find out where to drop off your finished prints.
 
