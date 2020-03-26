@@ -51,16 +51,16 @@ While we strive to help, *we must above all do no harm!*
 
 There is no tested sterilization protocol for 3D prints. Please follow the guidelines below to keep your prints as disinfected as possible.
 
-* Minimize Handling
+* Minimize Handling<br>
   Less touching means less potential transfer of viruses and other pathogens.
   
-* Wash Your Hands
+* Wash Your Hands<br>
   Wash thoroughly (for 20 seconds) with soap and warm water before handling the printed pieces.
 
-* Wear a Mask or Bandana
+* Wear a Mask or Bandana<br>
   Don't breath on the printed pieces.
 
-* Disinfect Each Piece
+* Disinfect Each Piece<br>
   Wipe down, or dunk each piece in isopropyl alcohol OR bleach solution OR use a reasonable disinfectant spray. Set aside on a disinfected surface to dry.
   >> What is a "reasonable disinfectant spray"?
 
